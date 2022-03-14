@@ -2,6 +2,10 @@
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/qTNi7KT.jpeg" width="200" height="200"/>
     <p align="center">
+<div align="center">
+
+## [![Doraemon](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+Doraemon+WA+Bot+repo;Created+by+Anshid;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+
 <a href="#"><img title="Doraemon" src="https://img.shields.io/badge/Doraemon-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">

@@ -1,0 +1,56 @@
+{
+
+  "name": "js-Bot",
+
+  "version": "1.0.0",
+
+  "description": "js-bot whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
+
+  "main": "./js-bot/bot.js",
+
+  "scripts": {
+
+    "start": "supervisor -s bot.js"
+
+  },
+
+  "repository": {
+
+    "type": "git",
+
+    "url": "git+https://github.com/AnshidZx7/js-bot"
+
+  },
+
+  "keywords": [
+
+    "WhatsApp",
+
+    "bgm",
+
+    "Bot"
+
+  ],
+
+  "author": "AsenaDev / Yusuf Usta",
+
+  "developer": "AnshidZx7 / @phaticusthiccy",
+
+  "license": "GPL-3.0-or-later",
+
+  "bugs": {
+
+    "url": "https://github.com/AnshidZx7/js-bot"
+
+  },
+
+  "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
+
+  "dependencies": {
+
+    "raganork-bot": "1.4.2"
+
+  }
+
+}
+

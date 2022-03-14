@@ -1,11 +1,11 @@
 
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/qTNi7KT.jpeg" width="200" height="200"/>
-  <p align="center">
+    <p align="center">
 <a href="#"><img title="Doraemon" src="https://img.shields.io/badge/Doraemon-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/AnshidZx7"><img title="Author" src="https://img.shields.io/badge/Author-AnshidZx7/Doraemon?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-farhan-dqz/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -18,14 +18,7 @@ Project created by <a href="https://github.com/AnshidZx7">AnshidZx7</a> to make 
 
 ----
 
-  <p align="center">
-  <a href="https://github.com/AnshidZx7/Doraemon
-    
-<a href="https://github.com/AnshidZx7/Doraemon"><img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
-<a href="https://github.com/AnshidZx7/Doraemon"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/AnshidZx7/Doraemon"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/AnshidZx7/Doraemon"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
-</p>
+  
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇

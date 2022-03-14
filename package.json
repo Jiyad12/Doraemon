@@ -1,12 +1,12 @@
 {
 
-  "name": "js-Bot",
+  "name": "Doraemon",
 
   "version": "1.0.0",
 
-  "description": "js-bot whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
+  "description": "Doraemon whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
 
-  "main": "./js-bot/bot.js",
+  "main": "./Doraemon/bot.js",
 
   "scripts": {
 
@@ -18,7 +18,7 @@
 
     "type": "git",
 
-    "url": "git+https://github.com/AnshidZx7/js-bot"
+    "url": "git+https://github.com/AnshidZx7/Doraemon"
 
   },
 
@@ -40,7 +40,7 @@
 
   "bugs": {
 
-    "url": "https://github.com/AnshidZx7/js-bot"
+    "url": "https://github.com/AnshidZx7/Doraemon"
 
   },
 

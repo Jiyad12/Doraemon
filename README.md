@@ -28,20 +28,18 @@ Project created by <a href="https://github.com/AnshidZx7">AnshidZx7</a> to make 
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6)
-  <div align="center">
+  
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/AnshidZx7/JulieMwol)
-  </div>
+  
     
 ## Setup
 <div align="center">
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnshidZx7/JulieMwol) 
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AnshidBot/Doraemon?v=1) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AnshidBot/Doraemon?v=1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnshidZx7/JulieMwol) 
   
      
 <br>

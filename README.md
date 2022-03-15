@@ -28,7 +28,10 @@ Project created by <a href="https://github.com/AnshidZx7">AnshidZx7</a> to make 
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  
+  <br>
+
+  [![join](https://i.imgur.com/21zMdKL.png)](https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6)
+  <div align="center">
        
   
     
@@ -73,7 +76,6 @@ $ node qr.js
    // scan the qr using whatsapp web on your phone
 $ node bot.js
 ```
-
 
 
 

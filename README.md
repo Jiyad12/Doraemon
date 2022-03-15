@@ -40,9 +40,9 @@ Click WA logo to Join Support Group 👇
 <br>
   <br>
 
-  [![join](https://i.imgur.com/21zMdKL.png)](https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6)
   <div align="center">
-       
+      
   
     
 ## Setup

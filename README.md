@@ -66,7 +66,7 @@ Click WA logo to Join Support Group 👇
   click to fork the git into your account
  Click [FORK](https://github.com/AnshidZx7/Doraemon/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/AnshidZx7/Doraemon copy this url and change KINGS-AS with your github username and click go<br> 
+5. Now https://heroku.com/deploy?template=https://github.com/AnshidZx7/Doraemon copy this url and change AnshidZx7 with your github username and click go<br> 
      
 <br>
 <br >

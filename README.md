@@ -1,3 +1,4 @@
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+Doraemon+WA+BOT+;)](https://git.io/typing-svg)
 
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/qTNi7KT.jpeg" width="200" height="200"/>

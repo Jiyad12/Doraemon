@@ -4,7 +4,7 @@
 
     "description": "Doraemon is the Modified Version of WhatsAsena, Made By @AnshidZx7.",
 
-    "logo": "https://imgur.com/a/blomNu8.jpeg",
+    "logo": "https://telegra.ph/file/3ccfc4376cc687168cec6.jpg",
 
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
 
@@ -46,11 +46,11 @@
 
          "BGM_DURATION": {
 
-            "description": "FUNY BGM DURATION   codded by SAIDALI",
+            "description": "FUNY BGM DURATION   codded by AnshidZx7",
 
             "required": false,
 
-            "value": "31996800"
+            "value": "11111:00:00"
 
          },
 
@@ -214,7 +214,7 @@
 
         "BLOCK_CHAT": {
 
-            "description": "Choose in which chat the bot won't work there. Ex: 905xxxx && 905xxxx-1xxx or 905xxxx,905xxx...",
+            "description": "Choose in which chat the bot won't work there. Ex: 859xxxx && 859xxxx-1xxx or 859xxxx,859xxx...",
 
             "required": false,
 

@@ -68,12 +68,7 @@ Click WA logo to Join Support Group 👇
 
 5. Now https://heroku.com/deploy?template=https://github.com/AnshidZx7/Doraemon copy this url and change AnshidZx7 with your github username and click go<br> 
      
-<br>
-<br >
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
-```
-bash <(curl -L https://t.ly/tHxh)
-``` 
+
   
 ### The Hard Method
 ```js
